@@ -16,7 +16,7 @@ Over the past couple of months, after years criticism, short selling, and just p
 knitr::include_graphics("Tesla Stock Price.PNG")
 ```
 
-![plot of chunk unnamed-chunk-1](Tesla Stock Price.PNG)
+![](Tesla Stock Price.PNG)
 
 It's not the first time Elon's words on twitter have moved its stock, either. After jokingly announcing that he had funding secured to take Tesla private at 420 a share, Tesla's stock again moved significantly on his tweet. 
 
@@ -136,7 +136,7 @@ load("kTest_musk.RData")
 plot(kTest_musk)
 ```
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-1.png)
+![](figure/unnamed-chunk-4-1.png)
 
 ```r
 #save(kTest_musk, file = "R/kTest_musk.RData")
@@ -182,7 +182,7 @@ labelTopics(topics10_musk)
 plot(topics10_musk)
 ```
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4-2.png)
+![](figure/unnamed-chunk-4-2.png)
 
 Now that I have the topics, I want to see if there is any correlation between topic 3 and Tesla's stock price
 
