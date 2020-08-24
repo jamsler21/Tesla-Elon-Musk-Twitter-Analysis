@@ -11,12 +11,7 @@ Introduction
 
 Over the past couple of months, after years criticism, short selling, and just pure pessimism, Wall Street has finally bought into what Elon Musk and Tesla is doing and the potential it has to disrupt the energy industry. After reaching a pandemic-induced low of 360 a share in March, Tesla's stock has exploded to over 2000 since, as investors continue to tout its journey to finally reaching 4 straight quarters of profitability. The stocks' recent ride to stardom, however, has not been without its lulls. Specifically speaking, its price dropped a whopping 12% in a matter of just one day. The reason had literally nothing to do with updates on the fundamentals of the business. It was this:
 
-
-```r
-knitr::include_graphics("Tesla Stock Price.PNG")
-```
-
-![plot of chunk unnamed-chunk-1](figure/Tesla Stock Price.PNG)
+"Tesla stock price is too high imo" - @elonmusk
 
 It's not the first time Elon's words on twitter have moved its stock, either. After jokingly announcing that he had funding secured to take Tesla private at 420 a share, Tesla's stock again moved significantly on his tweet. 
 
