@@ -16,7 +16,7 @@ Over the past couple of months, after years criticism, short selling, and just p
 knitr::include_graphics("Tesla Stock Price.PNG")
 ```
 
-![plot of chunk unnamed-chunk-1](Tesla Stock Price.PNG)
+![plot of chunk unnamed-chunk-1](figure/Tesla Stock Price.PNG)
 
 It's not the first time Elon's words on twitter have moved its stock, either. After jokingly announcing that he had funding secured to take Tesla private at 420 a share, Tesla's stock again moved significantly on his tweet. 
 
